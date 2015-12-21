@@ -1,0 +1,830 @@
+{  
+   "name":"Industry",
+   "children":[  
+      {  
+         "name":"Companies",
+         "children":[  
+            {  
+               "name":"Avitus Orthopaedics",
+               "link":"http://avitusortho.com/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Autograft",
+                           "children":[  
+                              {  
+                                 "name":"bone graft",
+                                 "size":9000
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Maxim Budyansky (CTO & co-Founder)",
+                           "email1":"maxim",
+                           "email2":"avitusortho.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Boehringer Laboratories",
+               "link":"http://www.boehringerlabs.com/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Suction Regulators"
+                        },
+                        {  
+                           "name":"Autologous Blood Processing Systems"
+                        },
+                        {  
+                           "name":"Anesthesia Products"
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Rose Huang (product launch specialist/Clinical R&D Engineer)",
+                           "email1":"rose.yi.huang",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Hansen Medical",
+               "link":"http://www.hansenmedical.com/us/en",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Magellan Robotic System",
+                           "children":[  
+                              {  
+                                 "name":"provides precision and efficiencies in vascular procedures, enabling physicians to perform fast, predictable procedures",
+                                 "size":9000
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Sensei Robotic System",
+                           "children":[  
+                              {  
+                                 "name":"cardiac arrhythmia",
+                                 "size":9000
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Jason Hsu (Senior R&D Engineer)",
+                           "email1":"Jason_Hsu",
+                           "email2":"hansenmedical.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Cook Medical",
+               "link":"https://www.cookmedical.com/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Various devices for minimally invasive solutions",
+                           "children":[  
+                              {  
+                                 "name":"provides precision and efficiencies in vascular procedures, enabling physicians to perform fast, predictable procedures",
+                                 "size":9000
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Micro Systems Engineering, Inc.",
+               "link":"http://www.mst.com/MST/MSTgroup/MSTcompanies/MSEI/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"leading specialist in the development and manufacture of electronic modules for active implants – including the design and test of application-specific Integrated Computer solutions (ASICs)"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Actuated Medical, Inc.",
+               "link":"http://www.actuatedmedical.com/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"TubeClear",
+                           "children":[  
+                              {  
+                                 "name":"in-patient tube clearing system",
+                                 "size":9000
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"GentleSharp",
+                           "children":[  
+                              {  
+                                 "name":"a more humane blood sampling system",
+                                 "size":9000
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Direct Drive",
+                           "children":[  
+                              {  
+                                 "name":"ultrasonic monitor",
+                                 "size":9000
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Eric Ashuckian (Senior Engineer)",
+                           "email1":"eric.ashuckian",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Boston Scientific",
+               "link":"https://www.bostonscientific.com/en-US/home.html",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"iCross",
+                           "children":[  
+                              {  
+                                 "name":"coronary imaging catheter",
+                                 "size":9000
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Vitalio Pacemaker"
+                        },
+                        {  
+                           "name":"Contour PVA Embolization Particles"
+                        },
+                        {  
+                           "name":"The Alair Bronchial Thermoplasty System"
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Shuja Dawood (Project Manager)",
+                           "email1":"shuja.dawood",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Atrium Medical",
+               "link":"http://www.atriummed.com/EN/default.asp",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"ClearWay RX",
+                           "children":[  
+                              {  
+                                 "name":"interventional drug delivery technology",
+                                 "size":9000
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"C-QUR",
+                           "children":[  
+                              {  
+                                 "name":"first-to-market Omega 3 Bioabsorbable Oil Fatty Acid (O3FA) coated surgical mesh",
+                                 "size":9000
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"FLIXENE",
+                           "children":[  
+                              {  
+                                 "name":"composite vascular graft products",
+                                 "size":9000
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Medtronic",
+               "link":"http://www.medtronic.com/us-en/index.html",
+               "children":[  
+                  {  
+                     "name":"Covidien",
+                     "children":[  
+                        {  
+                           "name":"Devices",
+                           "children":[  
+                              {  
+                                 "name":"Viva Quad XT",
+                                 "children":[  
+                                    {  
+                                       "name":"Cardiac Resynchronization Therapy Device"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Minimed 530G",
+                                 "children":[  
+                                    {  
+                                       "name":"diabetes"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Full List of Devices",
+                                 "link":"http://www.medtronic.com/us-en/healthcare-professionals-2.html?cmpid=mdt_com_orcl_us_for_hcps_f52_plc_2_hcps&utm_source=mdt_com_orcl_us_for_hcps&utm_medium=f5_redirect&utm_campaign=MDT_PLC_Launch_2015"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Pankti Shah (mechanical design engineer)",
+                           "email1":"pshah777",
+                           "email2":"gmail.com"
+                        },
+                        {  
+                           "name":"Shishira Nagesh (Senior R&D Engineer)",
+                           "email1":"shishira.nagesh",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Becton, Dickinson and Company (BD)",
+               "link":"http://www.bd.com/us/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"injection"
+                        },
+                        {  
+                           "name":"infusion"
+                        },
+                        {  
+                           "name":"anesthesia"
+                        },
+                        {  
+                           "name":"diabetes care"
+                        },
+                        {  
+                           "name":"pharmacy"
+                        },
+                        {  
+                           "name":"microbiology solutions"
+                        },
+                        {  
+                           "name":"disposal laboratory automation"
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Melissa Diskin (analyst, strategic innovation)",
+                           "email1":"diskinmelissa",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"St. Jude Medical",
+               "link":"http://www.sjm.com/corporate.aspx",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Quadra Assura",
+                           "children":[  
+                              {  
+                                 "name":"cathode ray tube defibrillator"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Pacemakers"
+                        },
+                        {  
+                           "name":"ViewMate Z",
+                           "children":[  
+                              {  
+                                 "name":"intracardiac echocardiology system"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"FlexAbility Ablation Catheter",
+                           "children":[  
+                              {  
+                                 "name":"device used to treat some types of heart arrhythmia"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Mechanical Heart Valves"
+                        },
+                        {  
+                           "name":"AMPLATZER",
+                           "children":[  
+                              {  
+                                 "name":" vascular plug device used to block blood vessel"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Laleh Tamhidi (Director of Clinical Engineering)",
+                           "email1":"ltamhidi",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Stryker",
+               "link":"http://www.stryker.com/en-us/index.htm",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Medical and Surgical",
+                           "children":[  
+                              {  
+                                 "name":"Hospital Beds"
+                              },
+                              {  
+                                 "name":"Intracompartmental Pressure Monitor",
+                                 "children":[  
+                                    {  
+                                       "name":"handheld monitor for quick measurement of compartment pressure"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Laparoscopes",
+                                 "children":[  
+                                    {  
+                                       "name":"fiberoptic instrument inserted through incision in abdominal wall used to visually examine or operate in a"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Large Bone Precision Saw"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Reconstructive",
+                           "children":[  
+                              {  
+                                 "name":"Mobile Bearing Hip System"
+                              },
+                              {  
+                                 "name":"T2 Tibial Nail",
+                                 "children":[  
+                                    {  
+                                       "name":"tool used for treatment of tibial fractures"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Vitagel",
+                                 "children":[  
+                                    {  
+                                       "name":"product to assist body in clotting blood"
+                                    }
+                                 ]
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Neurotechnology and Spine",
+                           "children":[  
+                              {  
+                                 "name":"Leibinger",
+                                 "children":[  
+                                    {  
+                                       "name":"tools for facial surgery"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Sonopet Ultrasonic Aspirator",
+                                 "children":[  
+                                    {  
+                                       "name":"device for removing fluid from body"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Spinal implants"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Contact",
+                     "children":[  
+                        {  
+                           "name":"Tiffany Tseng (Quality Engineer)",
+                           "email1":"ttseng66",
+                           "email2":"gmail.com"
+                        },
+                        {  
+                           "name":"Geoff Russell (Design Engineer)",
+                           "email1":"geoff.r.russell",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"GE Healthcare",
+               "link":"http://www3.gehealthcare.com/en",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Signa",
+                           "children":[  
+                              {  
+                                 "name":"magnetic resonance imaging (MRI)"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Ultrasound gels",
+                           "children":[  
+                              {  
+                                 "name":"allows ultrasound waves to be transmitted to tissue"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Aisys Carestation",
+                           "children":[  
+                              {  
+                                 "name":"device for anesthesia delivery"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Ulatrasound gels"
+                        },
+                        {  
+                           "name":"ViewMate Z",
+                           "children":[  
+                              {  
+                                 "name":"intracardiac echocardiology system"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Ventri",
+                           "children":[  
+                              {  
+                                 "name":"cardiac imaging device"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Flashpad",
+                           "children":[  
+                              {  
+                                 "name":"wireless X-ray device"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"CoreScan",
+                           "children":[  
+                              {  
+                                 "name":"device that quantifies visceral fat"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Mac 2000",
+                           "children":[  
+                              {  
+                                 "name":"resting electrocardiogram (ECG) system"
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Philips Healthcare",
+               "link":"http://www.usa.philips.com/healthcare",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"Ingenia 3.0T",
+                           "children":[  
+                              {  
+                                 "name":"magnetic resonance imaging (MRI)"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Cardiographs PageWriter TC50",
+                           "children":[  
+                              {  
+                                 "name":"system for visualization of ECG data"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Avalon FM20",
+                           "children":[  
+                              {  
+                                 "name":"Fetal and maternal monitoring system"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"920M Handheld Oximeter",
+                           "children":[  
+                              {  
+                                 "name":"blood oxygenation monitor"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Optichamber Diamond",
+                           "children":[  
+                              {  
+                                 "name":"respiratory drug delivery"
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Johnson & Johnson",
+               "link":"http://www.jnj.com/",
+               "children":[  
+                  {  
+                     "name":"Devices",
+                     "children":[  
+                        {  
+                           "name":"CORAIL Hip System",
+                           "children":[  
+                              {  
+                                 "name":"hip replacement"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Anspach XMax",
+                           "children":[  
+                              {  
+                                 "name":"bone cutting tool"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"ADROIT Guiding Catheter",
+                           "children":[  
+                              {  
+                                 "name":"device that assists with insertion of interventional/diagnostic devices into coronary or peripheral vascular system"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"OneTouch System",
+                           "children":[  
+                              {  
+                                 "name":"glucose monitor"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"PROCEED Surgical Mesh",
+                           "children":[  
+                              {  
+                                 "name":"Material for ventral hernia repair"
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {  
+         "name":"Other Information",
+         "children":[  
+            {  
+               "name":"What is Industry?",
+               "children":[  
+                  {  
+                     "name":"Hardware"
+                  },
+                  {  
+                     "name":"Software"
+                  }
+               ]
+            },
+            {  
+               "name":"Imaging Diagnostics"
+            },
+            {  
+               "name":"Other Diagnostics"
+            },
+            {  
+               "name":"Mobile/Point of Care"
+            },
+            {  
+               "name":"Physical",
+               "children":[  
+                  {  
+                     "name":"Surgical Applicance"
+                  },
+                  {  
+                     "name":"Surgical Instruments/Tools",
+                     "children":[  
+                        {  
+                           "name":"Intuitive Surgical",
+                           "link":"http://www.intuitivesurgical.com/",
+                           "children":[  
+                              {  
+                                 "name":"da Vinci Robotic Minimially Invasive Surgical System"
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"Prosthetics",
+                     "children":[  
+                        {  
+                           "name":"Hanger, Inc.",
+                           "link":"http://www.hanger.com/Pages/default.aspx",
+                           "children":[  
+                              {  
+                                 "name":"Orthopaedics"
+                              },
+                              {  
+                                 "name":"WalkeAide neuro-rehabilitation"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Alter G",
+                           "link":"http://www.alterg.com/",
+                           "children":[  
+                              {  
+                                 "name":"Bionic Leg"
+                              },
+                              {  
+                                 "name":"Anti-gravity Treadmill"
+                              }
+                           ]
+                        },
+                        {  
+                           "name":"Infinite Biomedical Technologies",
+                           "link":"http://www.i-biomed.com/",
+                           "children":[  
+                              {  
+                                 "name":"Devices",
+                                 "children":[  
+                                    {  
+                                       "name":"Flexcell: The first flexible battery for myoelectric prostheses. Place batteries virtually anywhere in the socket with ease to craft better looking and long-lasting prostheses"
+                                    },
+                                    {  
+                                       "name":"morph: an RFID-based controller for upper limb myoelectic hands. Approach morph to an RFID hand and the hand will change grips automatically"
+                                    }
+                                 ]
+                              },
+                              {  
+                                 "name":"Contact",
+                                 "children":[  
+                                    {  
+                                       "name":"Michelle Zwernemann (Director of Product Development)",
+                                       "email1":"michelle.zwernemann",
+                                       "email2":"gmail.com"
+                                    }
+                                 ]
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {  
+               "name":"Electrical"
+            },
+            {  
+               "name":"Drug Delivery"
+            },
+            {  
+               "name":"Market Research/Consulting",
+               "children":[  
+                  {  
+                     "name":"Clinvue",
+                     "link":"http://www.clinvue.com",
+                     "children":[  
+                        {  
+                           "name":"Anant Subramaniam (Biomedical Engineering Analyst)",
+                           "email1":"anant.subramaniam92",
+                           "email2":"gmail.com"
+                        }
+                     ]
+                  },
+                  {  
+                     "name":"ZDR, inc",
+                     "link":"http://www.zdr.com"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
