@@ -146,10 +146,6 @@ a:focus
     background-color: rgba(68, 132, 199, 0.2);
 }
 
-.events-centered p {
-	text-align: center;
-}
-
 .top-nav-collapse
     {
         padding: 0;
@@ -257,7 +253,7 @@ a:focus
     display: table;
 /*    width: 60%;*/
 		height: 100px;
-		width:100%;
+		width:60%;
 		margin-left:20%;
 		margin-top: 10px;
 		@media (min-width:767px) {
@@ -267,50 +263,6 @@ a:focus
 
 #about, #events {
 	background-color:rgba(68, 132, 199, 0.11);
-}
-
-.btn-circle
-{
-    width: 70px;
-    height: 70px;
-    margin-top: 15px;
-    padding: 7px 16px;
-    border: 2px solid #fff;
-    border-radius: 35px;
-    font-size: 40px;
-    color: #fff;
-    background: 0 0;
-    -webkit-transition: background .3s ease-in-out;
-    -moz-transition: background .3s ease-in-out;
-    transition: background .3s ease-in-out;
-}
-
-.btn-circle:hover,
-.btn-circle:focus
-{
-    outline: 0;
-    color: #fff;
-    background: rgba(255,255,255,.1);
-}
-
-.btn-circle i.animated
-{
-    -webkit-transition-property: -webkit-transform;
-    -webkit-transition-duration: 1s;
-    -moz-transition-property: -moz-transform;
-    -moz-transition-duration: 1s;
-}
-
-.btn-circle:hover i.animated
-{
-    -webkit-animation-name: pulse;
-    -moz-animation-name: pulse;
-    -webkit-animation-duration: 1.5s;
-    -moz-animation-duration: 1.5s;
-    -webkit-animation-iteration-count: infinite;
-    -moz-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
-    -moz-animation-timing-function: linear;
 }
 
 @-webkit-keyframes pulse{    
@@ -376,55 +328,6 @@ a:focus
     -o-background-size: cover;
 }
 
-#map
-{
-    width: 100%;
-    height: 200px;
-    margin-top: 100px;
-}
-
-@media (min-width:767px)
-{
-    .content-section
-    {
-        padding-top: -50px;
-    }
-    .download-section
-    {
-        padding: 100px 0;
-    }
-    #map
-    {
-        height: 400px;
-        margin-top: 250px;
-    }
-}
-
-.btn
-{
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 400;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
-}
-
-.btn-default
-{
-    border: 1px solid #219ab3;
-    color: #4484C7;
-    background-color: transparent;
-}
-
-.btn-default:hover,
-.btn-default:focus
-{
-    border: 1px solid #4484C7;
-    outline: 0;
-    color: #000;
-    background-color: #4484C7;
-}
 
 ul.banner-social-buttons
 {
@@ -509,13 +412,7 @@ body
 .centeredp {
 	text-align: center;
 }
-#mindmap_entrepreneurship {
-    width: 100%;
-}
-#mindmap_industry {
-    width: 99%;
-  	overflow: scroll;
-}
+
 .opportunities
 {
     padding-bottom: -100px;
@@ -529,99 +426,7 @@ body
 
 
 
-
-/* Leadership Table */
-
-.lead-name {
-    font-size: 20px;
-}
-.lead-position {
-    padding-bottom: 10px;
-}
-
-.linkedin svg{
-    fill: #4484C7;
-    transform:scale(.2);
-    transition: ease-in-out;
-    padding: 0px;
-    margin: 0px;
-    display: inline-block;
-}
-.linkedin svg:hover {
-    fill:black;
-    transform: scale(.25);
-    display: inline;
-}
-.social-media {
-    padding: 0px;
-    margin: 0px;
-    display: inline;
-}
-#end{
-    margin: 100px;
-}
-
-#end p {
-				text-align: center;
-		}
-
-/* SLIDE DOWN */
-#flip p{
-		display: inline;
-		padding: 0px;
-		margin: 0px;
-		color: rgba(7, 128, 181, 1)
-}
-#flip2 p{
-		display: inline;
-		padding: 0px;
-		margin: 0px;
-		color: rgba(7, 128, 181, 1)
-}
-
-#flip, #flip2, #inline {
-	display: inline;
-}
-
-#panel, #panel2 {
-    padding: 5px;
-    text-align: center;
-/*    background-color: #e5eecc;*/
-/*    border: solid 1px #c3c3c3;*/
-}
-
-#flip, #flip2:hover {
-	cursor: pointer;
-}
-
-#panel, #panel2 {
-    padding: 50px;
-    display: none;
-}
-
-a.image-link {
-		cursor: pointer;
-}
-
-p.small {
-	font-size: 14px;
-	margin-bottom: 15px;
-}
-
-p.large {
-	font-size: 20px;
-	margin-bottom: 15px;
-}
-
-.events-centered h5 {
-	margin: 5px;
-	margin-top: 20px;
-}
-
-.left-list {
-	text-align: left;
-	font-size: 18px;
-}
+/* Carousel */
 
 .carousel-control {
     background-color: white;   
@@ -869,4 +674,8 @@ h3.name {
 }
 p.code {
     display: none;
+}
+
+#end p{
+    text-align: center;
 }
