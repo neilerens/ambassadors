@@ -253,7 +253,7 @@ a:focus
     display: table;
 /*    width: 60%;*/
 		height: 100px;
-		width:100%;
+		width:60%;
 		margin-left:20%;
 		margin-top: 10px;
 		@media (min-width:767px) {
@@ -356,6 +356,15 @@ ul.banner-social-buttons
     }
 }
 
+footer
+{
+    padding: 50px 0;
+}
+
+footer p
+{
+    margin: 0;
+}
 
 ::-moz-selection {
     text-shadow: none;
@@ -665,4 +674,8 @@ h3.name {
 }
 p.code {
     display: none;
+}
+
+#end p{
+    text-align: center;
 }
