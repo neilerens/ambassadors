@@ -15,6 +15,7 @@ $(document).ready(function(){
         major: 'BME, Spanish',
         summary: 'something',
         profilePic: 'img/monica.jpg',
+        code: 'A Team',
         summary: 'Monica is the leader of a biomedical engineering design team and also serves as the Whiting School of Engineering student representative for the Student Engagement Committee of the Alumni Council. She is a member of Stepping Stone Ministry, and she volunteers for Safe House of Hope, a non-profit that fights human sex-trafficking in Baltimore. Monica studied abroad in Madrid during the Spring of 2015.'
       },
       {
@@ -23,6 +24,7 @@ $(document).ready(function(){
         position: 'Director of Recruitment & Development',
         school: 'WSE',
         major: 'BME',
+        code: 'A Team',
         summary: 'Neil was heavily involved with Aezon, the Hopkins XPRIZE team. Now, he leads a BME Design Team and serves as a PILOT Core Leader. Neil is president of the Hopkins Medical Device Network and helped co-found MedHacks. He is also a member of HERO, Encore Music, and the premed honor society Alpha Epsilon Delta.',
         profilePic: 'img/neil.png'
       },
