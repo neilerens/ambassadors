@@ -221,6 +221,14 @@ a:focus
 			background-size: 25px;
 		}
 }
+
+@media (max-width:766px){
+    .page-head{
+        width: 80%;
+        margin-left:10%;
+    }
+}
+
 .intro
 {
     display: table;
@@ -235,6 +243,12 @@ a:focus
 		@media (min-width:767px) {
 			background-size: 25px;
 		}
+}
+
+@media (max-width:766px){
+    .intro{
+        height: 100px;
+    }
 }
 .non-intro
 {
@@ -646,6 +660,15 @@ p.large {
     width: 100%;
     height: 200px;
 }
+    
+@media (max-width:766px){
+    .quote-background {
+        height: 300px;
+    }
+    .quote_svg {
+        height: 300px;
+    }
+}
 
 /* list.js */
 
@@ -653,7 +676,11 @@ p.large {
   margin:0;
   padding:20px 0 0;
 }
-
+@media (max-width:766px){
+    .list {
+        text-align: center;
+    }
+}
 
 .list p {
     margin-bottom: 0;
@@ -753,6 +780,9 @@ input:focus {
     border-radius: 6px;
     height: 200px;
     width: 200px;
+    border-style: solid;
+    border-width:1px;
+    border-color: rgba(37, 52, 103);
 }
 
 button.sort {
@@ -815,6 +845,12 @@ p.major {
     margin-bottom: 10px;
     width: 200px;
     font-size: 15px;
+}
+
+@media (max-width:766px){
+    p.major {
+        text-align: center;
+    }
 }
 
 h5.position {
