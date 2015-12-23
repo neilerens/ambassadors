@@ -42,7 +42,7 @@ $(document).ready(function(){
         position: 'Executive Director',
         year: 2016,
         school: 'Krieger',
-        major: 'Mole Cell Bio',
+        major: 'Molecular and Cellular Biology',
         profilePic: 'img/james.jpg',
         summary: 'James is a Molecular and Cellular Biology major and Computer Science minor. He tutors Baltimore City elementary school students with the JHU Tutorial Project, leads a peer tutoring group for Calculus III as part of the PILOT learning program, works as a student staffer at the Digital Media Center, gives admissions interviews as an Admissions Representative, and performs independent research in the Wendland lab. He plans to apply to MD/PhD programs after graduating in the spring.'
       },
@@ -50,7 +50,7 @@ $(document).ready(function(){
         name: 'Anjani Patel',
         year: 2017,
         position: 'Director of Philanthropy Education',
-        school: 'WSE',
+        school: 'WSE, Krieger',
         major: 'Applied Math & Statistics, Economics',
         profilePic: 'img/anjani.jpg',
         summary: 'Anjani is an Applied Mathematics and Statistics & Economics double major and Entrepreneurship & Management minor from Washington state. In addition to being a member of the Alumni Student Ambassadors, Anjani is a Resident Advisor, Course Assistant in the Center for Leadership Education, a PILOT Leader, and the Step Up Chair.'
@@ -201,7 +201,7 @@ $(document).ready(function(){
       },
       {
         name: 'Hudson Van Slooten',
-        year: 2018,
+        year: 2016,
         school: 'WSE',
         major: 'Chemical and Biomolecular Engineering',
         summary: 'Hudson is a Chemical Biomolecular Engineering major with a minor in Psychology and Brain Sciences. Hudson is a member of the Varsity Women’s cross country and track and field teams. She is also a Group Management intern for the Center for Social Concern on campus and sits on their student advocacy board. She is an active member of Thread. In addition to being involved with ASA, Hudson also sits on the board of Step Up and Senior Class Gift.',
