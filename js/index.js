@@ -69,7 +69,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Public Health',
         summary: 'Matthew is a Public Health Major on the Pre-Med track. Matthew is a Residential Advisor and also serves as the President of the Black Student Union as well a Senator for the Student Government Association. Matthew is also a member of the Hopkins Honeybees Club as well as the Blue Key Society.',
-        profilePic: 'img/matthew.brown.png'
+        profilePic: 'img/matthew.brown.jpg'
       },
       {
         name: 'Christine Kumar',
@@ -141,7 +141,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'History, History of Art',
         summary: 'Sydney is a History and History of Art double major from Orlando, Florida. She works at the Homewood House Museum and is a member of Phi Mu and Step Up.',
-        profilePic: 'img/sydney.baker.png'
+        profilePic: 'img/sydney.baker.jpg'
       },
       {
         name: 'Giselle Lai',
@@ -149,7 +149,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'History, Public Health',
         summary: "Giselle is a History and Public Health Studies double-major. She is a member of the Pi Beta Phi Women's Fraternity and of PEEPs, the peer health educator group under the Center for Health Education and Wellness. On campus, Giselle works as a study consultant for the Office of the Academic Advising and as an assistant at the Homewood House Museum.",
-        profilePic: 'img/giselle.lai.png'
+        profilePic: 'img/giselle.lai.jpg'
       },
       {
         name: 'Victoria Roberts',
@@ -276,8 +276,8 @@ $(document).ready(function(){
         year: 2017,
         school: 'WSE',
         major: 'Biomedical Engineering',
-        summary: '',
-        profilePic: 'img/lingga.adidharma.png'
+        summary: 'My name is Lingga and I am a junior majoring in biomedical engineering and am on the pre-med track. Outside of class, I volunteer at Charm City Clinic and tutor at ASEPP. I am co-founder and president of Indonesian-Malaysian Student Association and am also involved in a global engineering innovation team that went to Laos this past summer.',
+        profilePic: 'img/lingga.adidharma.jpg'
       },
       {
         name: 'Libby Ford',
