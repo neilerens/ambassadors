@@ -26,7 +26,7 @@ $(document).ready(function(){
         major: 'Biomedical Engineering',
         code: 'A Team',
         summary: 'Neil was heavily involved with Aezon, the Hopkins XPRIZE team. Now, he leads a biomedical engineering design team and serves as a PILOT Core Leader. Neil is president of the Hopkins Medical Device Network and helped co-found MedHacks. He is also a member of HERO, Encore Music, and the premed honor society Alpha Epsilon Delta.',
-        profilePic: 'img/neil.rens.png'
+        profilePic: 'img/neil.rens.jpg'
       },
       {
         name: 'Dannielle Brown',
