@@ -93,7 +93,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Psychology',
         summary: 'Haley is a Psychology major on the Physician’s Assistant track. Haley is a member of the Varsity Women’s lacrosse team as well being a member of the Student Athletic Advisory Commitee, Fellowship of Christian Athletes, Leadership Consulting Group at Hopkins, and One Love peer facilitation group. In her spare time, Haley helps with Baltimore City Lacrosse and Leadership where she mentors young aspiring middle school aged girls from inner city Baltimore, as well as volunteers at Union Memorial Hospital.',
-        profilePic: 'img/haley.schweizer.png'
+        profilePic: 'img/haley.schweizer.jpg'
       },
       {
         name: 'Simon Marshall-Shah',
@@ -217,7 +217,7 @@ $(document).ready(function(){
       },
       {
         name: 'Ryan Carroll',
-        year: 2018,
+        year: 2017,
         school: 'Krieger',
         major: 'Political Science, History',
         summary: 'Ryan is enrolled as a double major in history and political science. He is a member of the Blue Key Society, Mock Trial, the JHU Model U.N. Conference, and serves as an Admissions Representative. Ryan works for the Office of Residential Life as an RA and, aside from ASA, also works in Alumni Relations as a member of the Reunion and Homecoming Office.',
