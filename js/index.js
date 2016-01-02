@@ -109,7 +109,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Neuroscience',
         summary: 'Pankhuri is a junior Neuroscience major on the Pre-Med track. She performs research at the Johns Hopkins medical campus in degenerative muscular disorders, serves as a case manager at Charm City Clinic in downtown Baltimore, is a student ambassador for the Student Advocacy Board on behalf of the Center for Social Concern (CSC) and is the current Recruitment Chair for Alpha Epsilon Delta, the pre-medical honor society on campus. Pankhuri hopes to attend medical school after graduation.',
-        profilePic: 'img/pankhuri.jha.png'
+        profilePic: 'img/pankhuri.jha.jpg'
       },
       {
         name: 'Olivia Gebhardt',
@@ -244,7 +244,7 @@ $(document).ready(function(){
         year: 2017,
         school: 'Krieger',
         major: 'Economics',
-        summary: '',
+        summary: 'Sam is an Economics major wih minors in Entrepreneurship & Management and Financial Economics.  He serves as president of the Alpha Epsilon Pi fraternity and is a member of the MSE Symposium and the JHU club lacrosse team.',
         profilePic: 'img/sam.kornblau.png'
       },
       {
