@@ -307,7 +307,7 @@ $(document).ready(function(){
     
 
     $('.more_info').click(function() {
-        $('.more_info').removeClass('active')
+//        $('.more_info').removeClass('active')
         $(this).toggleClass('active');
     });
 });
