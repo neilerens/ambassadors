@@ -121,11 +121,11 @@ $(document).ready(function(){
       },
       {
         name: 'Ritchie Assini',
-        year: 2017,
+        year: 2016,
         school: 'Krieger',
         major: 'Sociology',
         summary: 'Ritchie is a Sociology major, minoring in Marketing Communications and Entrepreneurship and Management. She is planning to study marketing after graduation. Ritchie serves as a Teaching Assistant for Leadership Theory in the Center for Leadership Education Department and is also a member of the American Marketing Association. Ritchie played on the Varsity Women’s Lacrosse team for two years, before suffering a career ending injury, however she is now a commentator for the games.',
-        profilePic: 'img/ritchie.assini.png'
+        profilePic: 'img/ritchie.assini.jpg'
       },
       {
         name: 'David Hamburger',
