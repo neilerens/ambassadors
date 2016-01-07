@@ -61,7 +61,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Public Health',
         summary: 'Danait is a public health studies major and french cultural studies minor passionate about global affairs and traveling. She intends to pursue a career in global health or health policy in the future. This year, Danait traveled to Uganda and Mali to conduct public health research and will be pursuing a comparative studies community health program in India, South Africa and Brazil in the spring. On campus, Danait is the co-president for the Hopkins Eritrean and Ethiopian Society (HEES), an executive board member for the Women’s Initiative for Social Equity (WISE), and a member of the Johns Hopkins Underrepresented in the Medical Professions (JUMP) club.',
-        profilePic: 'img/danait.yemane.png'
+        profilePic: 'img/danait.yemane.jpg'
       },
       {
         name: 'Matthew Brown',
@@ -85,7 +85,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'History of Art',
         summary: 'Elizabeth is a History of Art major and a Museums and Society minor. Elizabeth currently serves as the Vice President (COO) of her sorority, Kappa Alpha Theta. On the Homewood campus, Elizabeth is a member of Blue Key Society as well as Admissions Representatives. Elizabeth is a Study Consultant and an intern at the Walters Art Museum.',
-        profilePic: 'img/elizabeth.glass.png'
+        profilePic: 'img/elizabeth.glass.jpg'
       },
       {
         name: 'Haley Schweizer',
@@ -197,7 +197,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Molecular and Cellular Biology',
         summary: 'Brian is a current senior majoring in Molecular and Cellular Biology with a minor in psychology. He studied abroad at Oxford University in their department of molecular biochemistry during his Junior year and is currently on the pre-med track. Outside of the classroom, Brian is involved with research at the medical campus, works with admissions as an Admissions Representative and as a member of the Student Admissions Advisory Board, and is also involved with Alpha Epsilon Delta, the pre-medical honours society.',
-        profilePic: 'img/brian.lo.png'
+        profilePic: 'img/brian.lo.jpg'
       },
       {
         name: 'Hudson Van Slooten',
