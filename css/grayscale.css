@@ -261,10 +261,13 @@ a:focus
 		}
 }
 
-#about, #events {
+#about, #events, #apply {
 	background-color:rgba(68, 132, 199, 0.11);
 }
-
+iframe {
+    display: block;
+    margin: 0 auto;
+}
 @-webkit-keyframes pulse{    
     0 {
         -webkit-transform: scale(1);
