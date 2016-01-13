@@ -226,10 +226,10 @@ $(document).ready(function(){
       {
         name: 'Colette Aroh',
         year: 2018,
-        school: '',
-        major: '',
-        summary: '',
-        profilePic: 'img/colette.aroh.png'
+        school: 'Krieger',
+        major: 'Behavioral Biology, Spanish',
+        summary: 'Colette is a Behavioral Biology and Spanish double major. She is on the Social Justice Team of the Hopkins Christian Fellowship, heads the Volunteers Around the World chapter in their efforts to build mobile clinics in Peru, works as a student athletic trainer at the Athletic Trainers Office for the athletic teams, and writes blogs for the Student Advisory Admissions Panel. She plans to participate in a few global health centered programs after graduating before pursing her medical degree.',
+        profilePic: 'img/colette.aroh.jpg'
       },
       {
         name: 'Bridget Hampton',
