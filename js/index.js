@@ -133,7 +133,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'International Studies',
         summary: 'David is an International Studies major from Baltimore with an interest in security studies and diplomatic history. In addition to serving as an Alumni Student Ambassador, he is a Woodrow Wilson Research Fellow, is proud to work with the JHU Politik as Maryland Editor, and is involved with the International Studies Leadership Committee.',
-        profilePic: 'img/david.hamburger.png'
+        profilePic: 'img/David.Hamburger.jpg'
       },
       {
         name: 'Sydney Baker',
