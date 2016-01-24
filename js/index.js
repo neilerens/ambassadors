@@ -22,7 +22,6 @@ $(document).ready(function(){
         year: 2016,
         school: 'WSE, Krieger',
         major: 'Biomedical Engineering, Spanish',
-        summary: 'something',
         profilePic: 'img/monica.rex.png',
         code: 'A Team',
         summary: 'Monica is the leader of a biomedical engineering design team and also serves as co-chair for the Student Engagement Committee of the Alumni Council. She is a member of Stepping Stone Ministry, and she volunteers for Safe House of Hope, a non-profit that fights human sex-trafficking in Baltimore. Monica studied abroad in Madrid during the Spring of 2015.'
