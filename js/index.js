@@ -8,12 +8,20 @@ $(document).ready(function(){
 
     var values = [
       {
+        name: 'James Shepherdson',
+        position: 'Executive Director',
+        year: 2016,
+        school: 'Krieger',
+        major: 'Molecular and Cellular Biology',
+        profilePic: 'img/james.shepherdson.jpg',
+        summary: 'James is a Molecular and Cellular Biology major and Computer Science minor. He tutors Baltimore City elementary school students with the JHU Tutorial Project, leads a peer tutoring group for Calculus III as part of the PILOT learning program, works as a student staffer at the Digital Media Center, gives admissions interviews as an Admissions Representative, and performs independent research in the Wendland lab. He plans to apply to MD/PhD programs after graduating in the spring.'
+      },
+      {
         name: 'Monica Rex',
         position: 'Director of Events & Logistics',
         year: 2016,
         school: 'WSE, Krieger',
         major: 'Biomedical Engineering, Spanish',
-        summary: 'something',
         profilePic: 'img/monica.rex.png',
         code: 'A Team',
         summary: 'Monica is the leader of a biomedical engineering design team and also serves as co-chair for the Student Engagement Committee of the Alumni Council. She is a member of Stepping Stone Ministry, and she volunteers for Safe House of Hope, a non-profit that fights human sex-trafficking in Baltimore. Monica studied abroad in Madrid during the Spring of 2015.'
@@ -36,15 +44,6 @@ $(document).ready(function(){
         major: 'Public Health',
         profilePic: 'img/danni.brown.jpeg',
         summary: 'Dannielle is a Public Health Studies major on the Pre-Med track. She is a second year resident advisor, the director of internal affairs for Alumni Student Ambassadors, and the president of the Xi Tau Chapter of Alpha Kappa Alpha Sorority, Inc. Dannielle has recently studied abroad in Cape Town, South Africa where she worked with children affected by HIV/AIDS. While here in Baltimore, Dannielle is currently writing her senior honors thesis, and serves as a mentor at the US Dream Academy with children who suffer from parental incarceration.'
-      },
-      {
-        name: 'James Shepherdson',
-        position: 'Executive Director',
-        year: 2016,
-        school: 'Krieger',
-        major: 'Molecular and Cellular Biology',
-        profilePic: 'img/james.shepherdson.jpg',
-        summary: 'James is a Molecular and Cellular Biology major and Computer Science minor. He tutors Baltimore City elementary school students with the JHU Tutorial Project, leads a peer tutoring group for Calculus III as part of the PILOT learning program, works as a student staffer at the Digital Media Center, gives admissions interviews as an Admissions Representative, and performs independent research in the Wendland lab. He plans to apply to MD/PhD programs after graduating in the spring.'
       },
       {
         name: 'Anjani Patel',
