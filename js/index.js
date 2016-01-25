@@ -76,7 +76,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Political Science, Economics',
         summary: 'Christine is a senior majoring in Political Science and Economics. She is the Student Director of the Johns Hopkins Tutorial Project, an Advisory Board member of WISE (Women’s Initiative for Social Equity), Pi Beta Phi, and the Student Ambassador Board (SAB) for the Center for Social Concern.',
-        profilePic: 'img/christine.kumar.png'
+        profilePic: 'img/Christine_Kumar.jpg'
       },
       {
         name: 'Elizabeth Glass',
@@ -116,7 +116,7 @@ $(document).ready(function(){
         school: 'WSE, Krieger',
         major: 'Applied Math and Statistics, Physics',
         summary: 'Olivia is a double major in Physics and Applied Mathematics & Statistics. She plans to attend Business School after graduation. Olivia is a member of Kappa Kappa Gamma, the JHU Consulting Club, the Society of Physics Students, and a tour guide for the Blue Key Society. She also works for Professor Robert Leheny in his liquid crystal lab doing microfluidic research and hopes to have her work published soon.',
-        profilePic: 'img/olivia.gebhardt.png'
+        profilePic: 'img/Olivia_Gebhardt.jpg'
       },
       {
         name: 'Ritchie Assini',
@@ -188,7 +188,7 @@ $(document).ready(function(){
         school: 'WSE',
         major: 'Computer Science',
         summary: "Sarah is a sophomore on SGA majoring in Computer Science. She’s called TX, CT, IN, NJ, KY, and PA home, but these days you’ll 99% find her at the farmer's market, Carma’s, running, cooking, or in line at Char Mar. Despite her apparent lack of athletic physique, on weekends she’ll be hitting the athletic fields, in a pretty sweet get-up which happens to resemble a giant blue bird. Fun Fact: Sarah makes amazing sushi.",
-        profilePic: 'img/sarah.zappone.png'
+        profilePic: 'img/Sarah_Zappone.jpg'
       },
       {
         name: 'Brian Lo',
@@ -244,7 +244,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Economics',
         summary: 'Sam is an Economics major wih minors in Entrepreneurship & Management and Financial Economics.  He serves as president of the Alpha Epsilon Pi fraternity and is a member of the MSE Symposium and the JHU club lacrosse team.',
-        profilePic: 'img/sam.kornblau.png'
+        profilePic: 'img/Sam_Kornblau.jpg'
       },
       {
         name: 'Milonee Mehta',
@@ -252,7 +252,7 @@ $(document).ready(function(){
         school: 'WSE',
         major: 'Chemical and Biomolecular Engineering',
         summary: '',
-        profilePic: 'img/milonee.mehta.png'
+        profilePic: 'img/Milonee_Mehta.jpg'
       },
       {
         name: 'Kush Gupta',
@@ -268,7 +268,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Public Health',
         summary: '',
-        profilePic: 'img/isabelle.kim.png'
+        profilePic: 'img/Isabelle_Kim.jpg'
       },
       {
         name: 'Lingga Adidharma',
@@ -284,7 +284,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'French',
         summary: '',
-        profilePic: 'img/libby.ford.png'
+        profilePic: 'img/Libby_Ford.jpg'
       },
       {
         name: 'Angela Roller',
@@ -292,7 +292,7 @@ $(document).ready(function(){
         school: 'WSE',
         major: 'Computer Science',
         summary: '',
-        profilePic: 'img/angela.roller.png'
+        profilePic: 'img/Angela_Roller.jpg'
       }
     ];
 
