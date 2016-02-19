@@ -251,7 +251,7 @@ $(document).ready(function(){
         year: 2017,
         school: 'WSE',
         major: 'Chemical and Biomolecular Engineering',
-        summary: '',
+        summary: 'Milonee is a Chemical and Biomolecular Engineering major. She is the president of the ChemBE undergraduate student group, JHU AIChE (American Institute of Chemical Engineers). Milonee enjoys playing the clarinet in her free time, an interest she pursues by taking weekly music lessons at Peabody and participating in the Hopkins Symphony Orchestra.',
         profilePic: 'img/Milonee_Mehta.jpg'
       },
       {
