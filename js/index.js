@@ -349,6 +349,14 @@ $(document).ready(function(){
         major: 'International Studies, Political Science',
         summary: 'Sam is a Political Science Major with a Classics Minor from Houston, Texas. Along with being an Alumni Student Ambassador, he is a Justice on the JHU Judiciary Board of the SGA and a member of the Varsity Wrestling Team. He is also  Executive Chair of the International Studies Leadership Committee, Chair of the Milton S. Eisenhower Symposium, and Chair of the Blue Key Society.',
         profilePic: 'img/sam.sands'
+      },
+      {
+        name: 'Haldo Treviño II',
+        year: 2018,
+        school: 'Krieger',
+        major: 'Neuroscience',
+        summary: 'Haldo is a neuroscience major from the Rio Grande Valley located in South Texas. He is a Gates Millennium Scholar, research assistant in the Brain Tumor Stem Call Lab at the medical campus and a Johns Hopkins Underrepresented in Medicine Program mentor. Outside of academics, he enjoys painting and drawing with various mediums, particularly oil on canvas.',
+        profilePic: 'img/haldo.trevino'
       }
     ];
 
