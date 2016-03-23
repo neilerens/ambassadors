@@ -293,6 +293,62 @@ $(document).ready(function(){
         major: 'Computer Science',
         summary: '',
         profilePic: 'img/Angela_Roller.jpg'
+      },
+      {
+        name: 'Eric Chiang',
+        year: 2018,
+        school: 'WSE',
+        major: 'BME',
+        summary: 'Eric is a Biomedical Engineering Major from Orange County, California. Along with being an Alumni Student Ambassador, he is currently an executive board member of the Biomedical Engineering Society and co-founder of BHEST Medical, a med-tech spinoff from the biomedical engineering design team program. He is also a tour guide through Blue Key Society, a member of the Pre-Professional Advisory Board, and a tutor for Tutorial Project, an after-school tutoring program that provides academic support for elementary school students.',
+        profilePic: 'img/eric.chiang'
+      },
+      {
+        name: 'Jake Kim',
+        year: 2018,
+        school: 'WSE',
+        major: 'BME, AMS',
+        summary: 'He is a board member of Hopkins Medical Device Network, crew member of Hopkins Emergency Response Unit, and treasurer of Korean Scientists and Engineers Association. He also leads a team for SCNO, Students Consulting for Nonprofit Organizations, and is working on assisting a mid-sized hospital in Baltimore County with data integration and performance dashboard development. He is a member of the Hopkins Marathon Team, and runs half marathons to marathons in his free time.',
+        profilePic: 'img/jake.kim'
+      },
+      {
+        name: 'Aaron Pultman',
+        year: 2019,
+        school: 'Krieger',
+        major: 'International Studies',
+        summary: 'Aaron is an International Studies major from Teaneck, New Jersey. He is a member of the Hopkins Interfaith Council and is the Vice President of the Hopkins American Partnership for Israel. He is also a member of the Hopkins College Democrats and the Hopkins Krav Maga club. Aaron also likes to play squash in his free time.',
+        profilePic: 'img/aaron.pultman.jpg'
+      },
+      {
+        name: 'Kelsey Harper',
+        year: 2018,
+        school: 'Krieger',
+        major: 'Chemistry',
+        summary: 'With her Chemistry major and Global Environmental Change and Sustainability minor, Kelsey is on the “save the planet” track. She is currently researching novel methods of energy conversion and storage, and works as a Teacher’s Assistant for Introductory Organic Chemistry Lab. She is an executive of Real Food Hopkins and a member of Students for Environmental Action, working through both student groups towards a more sustainable Hopkins. Kelsey competes for the Varsity Track and Cross Country teams, but recreationally enjoys rock climbing and anything else in the great outdoors.',
+        profilePic: 'img/kelsey.harper'
+      },
+      {
+        name: 'Gurion Marks',
+        year: 2019,
+        school: 'Krieger',
+        major: 'Neuroscience',
+        summary: 'Gurion is a Neuroscience major from New York City. He is an avid ice hockey player, competing on Hopkins’ club ice hockey team. Gurion conducts research in connectomics and neural networks at the Vogelstein lab in the Center for Imaging Science, and is an active member of Thread. When he’s not at the rink or in the lab, you’ll probably find him playing guitar or saxophone, or making his own pasta from scratch!',
+        profilePic: 'img/gurion.marks'
+      },
+      {
+        name: 'Leena Aurora',
+        year: 2019,
+        school: 'Krieger',
+        major: 'Public Health',
+        summary: "Leena is a Public Health major from Lynnfield, Massachusetts. She has been dancing since the age of six, and is a member of JHU Shakti, Hopkins' Indian Classical dance team. She also volunteers with Thread, and is a member of Phi Mu. An avid foodie, she loves to bake, cook, and explore Baltimore restaurants, and writes for JHU's chapter of Spoon University.",
+        profilePic: 'img/leena.aurora'
+      },
+      {
+        name: 'Sam Sands',
+        year: 2017,
+        school: 'Krieger',
+        major: 'International Studies, Political Science',
+        summary: '',
+        profilePic: 'img/sam.sands'
       }
     ];
 
