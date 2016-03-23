@@ -347,7 +347,7 @@ $(document).ready(function(){
         year: 2017,
         school: 'Krieger',
         major: 'International Studies, Political Science',
-        summary: '',
+        summary: 'Sam is a Political Science Major with a Classics Minor from Houston, Texas. Along with being an Alumni Student Ambassador, he is a Justice on the JHU Judiciary Board of the SGA and a member of the Varsity Wrestling Team. He is also  Executive Chair of the International Studies Leadership Committee, Chair of the Milton S. Eisenhower Symposium, and Chair of the Blue Key Society.',
         profilePic: 'img/sam.sands'
       }
     ];
