@@ -355,7 +355,7 @@ $(document).ready(function(){
         year: 2018,
         school: 'Krieger',
         major: 'Neuroscience',
-        summary: 'Haldo is a neuroscience major from the Rio Grande Valley located in South Texas. He is a Gates Millennium Scholar, research assistant in the Brain Tumor Stem Call Lab at the medical campus and a Johns Hopkins Underrepresented in Medicine Program mentor. Outside of academics, he enjoys painting and drawing with various mediums, particularly oil on canvas.',
+        summary: 'Haldo is a neuroscience major from the Rio Grande Valley located in South Texas. He is a Gates Millennium Scholar, research assistant in the Brain Tumor Stem Cell Lab at the medical campus and a Johns Hopkins Underrepresented in Medicine Program mentor. Outside of academics, he enjoys painting and drawing with various mediums, particularly oil on canvas.',
         profilePic: 'img/haldo.trevino'
       }
     ];
