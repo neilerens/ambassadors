@@ -180,7 +180,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Public Health',
         summary: 'Sarah is a Public Health major on the Pre-Med track. Sarah is a member of the Varsity Women’s soccer team as well as Alpha Phi, the Blue Key Society, and serves as an Admissions Representative at Homewood. Sarah is the Public Relations chair for Global Health Brigades, serves as an intern at Hillel, and is involved in a community outreach program that focuses on Asthma in the Baltimore community.',
-        profilePic: 'img/sarah.benett.png'
+        profilePic: 'img/sarah.benett.jpg'
       },
       {
         name: 'Sarah Zappone',
