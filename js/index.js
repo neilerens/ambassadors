@@ -22,7 +22,7 @@ $(document).ready(function(){
         year: 2016,
         school: 'WSE, Krieger',
         major: 'Biomedical Engineering, Spanish',
-        profilePic: 'img/monica.rex.png',
+        profilePic: 'img/monica.rex.jpg',
         code: 'A Team',
         summary: 'Monica is the leader of a biomedical engineering design team and also serves as co-chair for the Student Engagement Committee of the Alumni Council. She is a member of Stepping Stone Ministry, and she volunteers for Safe House of Hope, a non-profit that fights human sex-trafficking in Baltimore. Monica studied abroad in Madrid during the Spring of 2015.'
       },
@@ -308,7 +308,7 @@ $(document).ready(function(){
         school: 'WSE',
         major: 'BME, AMS',
         summary: 'He is a board member of Hopkins Medical Device Network, crew member of Hopkins Emergency Response Unit, and treasurer of Korean Scientists and Engineers Association. He also leads a team for SCNO, Students Consulting for Nonprofit Organizations, and is working on assisting a mid-sized hospital in Baltimore County with data integration and performance dashboard development. He is a member of the Hopkins Marathon Team, and runs half marathons to marathons in his free time.',
-        profilePic: 'img/jake.kim'
+        profilePic: 'img/Jake.Kim.jpg'
       },
       {
         name: 'Aaron Pultman',
@@ -324,7 +324,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Chemistry',
         summary: 'With her Chemistry major and Global Environmental Change and Sustainability minor, Kelsey is on the “save the planet” track. She is currently researching novel methods of energy conversion and storage, and works as a Teacher’s Assistant for Introductory Organic Chemistry Lab. She is an executive of Real Food Hopkins and a member of Students for Environmental Action, working through both student groups towards a more sustainable Hopkins. Kelsey competes for the Varsity Track and Cross Country teams, but recreationally enjoys rock climbing and anything else in the great outdoors.',
-        profilePic: 'img/kelsey.harper'
+        profilePic: 'img/Kelsey.Harper.jpg'
       },
       {
         name: 'Gurion Marks',
@@ -332,7 +332,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Neuroscience',
         summary: 'Gurion is a Neuroscience major from New York City. He is an avid ice hockey player, competing on Hopkins’ club ice hockey team. Gurion conducts research in connectomics and neural networks at the Vogelstein lab in the Center for Imaging Science, and is an active member of Thread. When he’s not at the rink or in the lab, you’ll probably find him playing guitar or saxophone, or making his own pasta from scratch!',
-        profilePic: 'img/gurion.marks'
+        profilePic: 'img/Gurion.Marks.jpg'
       },
       {
         name: 'Leena Aurora',
@@ -340,7 +340,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Public Health',
         summary: "Leena is a Public Health major from Lynnfield, Massachusetts. She has been dancing since the age of six, and is a member of JHU Shakti, Hopkins' Indian Classical dance team. She also volunteers with Thread, and is a member of Phi Mu. An avid foodie, she loves to bake, cook, and explore Baltimore restaurants, and writes for JHU's chapter of Spoon University.",
-        profilePic: 'img/leena.aurora'
+        profilePic: 'img/Leena.Aurora.jpg'
       },
       {
         name: 'Sam Sands',
@@ -348,7 +348,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'International Studies, Political Science',
         summary: 'Sam is a Political Science Major with a Classics Minor from Houston, Texas. Along with being an Alumni Student Ambassador, he is a Justice on the JHU Judiciary Board of the SGA and a member of the Varsity Wrestling Team. He is also  Executive Chair of the International Studies Leadership Committee, Chair of the Milton S. Eisenhower Symposium, and Chair of the Blue Key Society.',
-        profilePic: 'img/sam.sands'
+        profilePic: 'img/Sam.Sands.jpg'
       },
       {
         name: 'Haldo Treviño II',
@@ -356,7 +356,7 @@ $(document).ready(function(){
         school: 'Krieger',
         major: 'Neuroscience',
         summary: 'Haldo is a neuroscience major from the Rio Grande Valley located in South Texas. He is a Gates Millennium Scholar, research assistant in the Brain Tumor Stem Cell Lab at the medical campus and a Johns Hopkins Underrepresented in Medicine Program mentor. Outside of academics, he enjoys painting and drawing with various mediums, particularly oil on canvas.',
-        profilePic: 'img/haldo.trevino'
+        profilePic: 'img/Haldo.Trevino.jpg'
       }
     ];
 
