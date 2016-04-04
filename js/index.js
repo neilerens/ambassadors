@@ -300,7 +300,7 @@ $(document).ready(function(){
         school: 'WSE',
         major: 'BME',
         summary: 'Eric is a Biomedical Engineering Major from Orange County, California. Along with being an Alumni Student Ambassador, he is currently an executive board member of the Biomedical Engineering Society and co-founder of BHEST Medical, a med-tech spinoff from the biomedical engineering design team program. He is also a tour guide through Blue Key Society, a member of the Pre-Professional Advisory Board, and a tutor for Tutorial Project, an after-school tutoring program that provides academic support for elementary school students.',
-        profilePic: 'img/eric.chiang'
+        profilePic: 'img/Eric.Chiang.png'
       },
       {
         name: 'Jake Kim',
