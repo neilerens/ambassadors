@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 
     var options = {
-      valueNames: [ 'name', 'year', 'school', 'major', 'profilePic' ],
+      valueNames: [ 'name', 'year', 'school', 'major', 'profilePic', ],
       item: 'user-item'
     };
 
@@ -13,6 +13,7 @@ $(document).ready(function(){
         year: 2016,
         school: 'Krieger',
         major: 'Molecular and Cellular Biology',
+        code: 'Supreme Leader',
         profilePic: 'img/james.shepherdson.jpg',
         summary: 'James is a Molecular and Cellular Biology major and Computer Science minor. He tutors Baltimore City elementary school students with the JHU Tutorial Project, leads a peer tutoring group for Calculus III as part of the PILOT learning program, works as a student staffer at the Digital Media Center, gives admissions interviews as an Admissions Representative, and performs independent research in the Wendland lab. He plans to apply to MD/PhD programs after graduating in the spring.'
       },
@@ -307,7 +308,7 @@ $(document).ready(function(){
         year: 2018,
         school: 'WSE',
         major: 'BME, AMS',
-        summary: 'He is a board member of Hopkins Medical Device Network, crew member of Hopkins Emergency Response Unit, and treasurer of Korean Scientists and Engineers Association. He also leads a team for SCNO, Students Consulting for Nonprofit Organizations, and is working on assisting a mid-sized hospital in Baltimore County with data integration and performance dashboard development. He is a member of the Hopkins Marathon Team, and runs half marathons to marathons in his free time.',
+        summary: 'He is a board member of Hopkins Medical Device Network, crew member of Hopkins Emergency Response Unit, and treasurer of Korean Scientists and Engineers Association. As leader for an SCNO (Students Consulting for Nonprofit Organizations) team, he is working on assisting a mid-sized hospital in Baltimore County with data integration and performance dashboard development. He is a member of the Hopkins Marathon Team, and runs half marathons to marathons in his free time.',
         profilePic: 'img/Jake.Kim.jpg'
       },
       {
