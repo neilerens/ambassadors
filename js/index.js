@@ -13,7 +13,7 @@ $(document).ready(function(){
         year: 2016,
         school: 'Krieger',
         major: 'Molecular and Cellular Biology',
-        code: 'Supreme Leader',
+        code: '',
         profilePic: 'img/james.shepherdson.jpg',
         summary: 'James is a Molecular and Cellular Biology major and Computer Science minor. He tutors Baltimore City elementary school students with the JHU Tutorial Project, leads a peer tutoring group for Calculus III as part of the PILOT learning program, works as a student staffer at the Digital Media Center, gives admissions interviews as an Admissions Representative, and performs independent research in the Wendland lab. He plans to apply to MD/PhD programs after graduating in the spring.'
       },
